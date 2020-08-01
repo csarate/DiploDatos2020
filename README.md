@@ -1,8 +1,8 @@
 ## Universidad Nacional de Córdoba - Facultad de Matemática, Astronomía, Física y Computación
 
-#  Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones 2020
+###  Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones 2020
 
-#  Búsqueda y Recomendación de Textos Legales - Análisis y Visualización
+####  Búsqueda y Recomendación de Textos Legales - Análisis y Visualización
 
 Mentor: Claudio Sarate
 
