@@ -8,10 +8,10 @@ Mentor: Claudio Sarate
 
 Integrantes:
 
-Clara Quintana
-Ezequiel Juarez
-David Veisaga
-Jorge Pérez
+* Clara Quintana
+* Ezequiel Juarez
+* David Veisaga
+* Jorge Pérez
 
 Repositorio para la Mentoría de Búsqueda y Recomendación de Textos Legales para la Diplomatura de Ciencia de Datos año 2020
 
