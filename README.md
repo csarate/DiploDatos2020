@@ -1,4 +1,4 @@
-## Universidad Nacional de Córdoba - Facultad de Matemática, Astronomía, Física y Computación
+### Universidad Nacional de Córdoba - Facultad de Matemática, Astronomía, Física y Computación
 
 ###  Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones 2020
 
